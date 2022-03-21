@@ -1,0 +1,24 @@
+#name {
+  font-size: xx-small;
+  color: red;
+  background-color: blue;
+}
+#head {
+  background-color: black;
+}
+#article {
+  width: 700px;
+  height: 1000px;
+  background-color: aqua;
+  text-align: center;
+}
+#footer {
+  background-color: brown;
+}
+#ch_article {
+  background-color: beige;
+  text-align: left;
+  margin: 10px;
+  margin-top: 100px;
+  padding: 40px;
+}
